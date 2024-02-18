@@ -54,6 +54,13 @@ __pycache__/
 # C extensions
 *.so
 
+#data and other models
+data/
+output/
+stylize/
+refine/
+
+
 # Distribution / packaging
 .Python
 build/
